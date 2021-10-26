@@ -66,7 +66,6 @@ public class Pandemie {
 		console.readyToExit(true);
 	}
 
-	/* Hinzufügen der neuen Methoden */
 	public static void print(int a, int b) {
 		int i, j;
 		for (i = 0; i < a; i++) {
